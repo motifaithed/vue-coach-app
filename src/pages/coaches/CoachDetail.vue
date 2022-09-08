@@ -1,5 +1,13 @@
-<template>
-    details for coach
-    <router-view></router-view>
-    <router-link  to="/coaches/c1/contact">Contact</router-link>
-</template>
+<!-- <template>
+ <section>
+    <base-card>
+    <h2>{{ fullName }}</h2>
+    <h3>${{ rate }}/hour</h3>    
+</base-card>
+ </section>
+ <section>
+    <base-card>
+<h2>Interested? Reach out now!</h2>    
+</base-card>
+ </section>
+</template> -->
